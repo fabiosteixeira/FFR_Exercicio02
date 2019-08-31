@@ -4,6 +4,7 @@ import "./Components/Routes/pages.css"
 import { ApplicationRoutes } from "./ApplicationRoutes";
 import { NavBarComponent } from "./Components/NavBarComponent/NavBarComponent";
 
+
 function App() {
   return (
     <>
